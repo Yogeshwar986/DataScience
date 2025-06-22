@@ -21,8 +21,6 @@ LSTM (Long Short-Term Memory) for deep learning prediction
 
 📁 Dataset
 Apple stock data (2020–2025), including daily prices and indicators.
+
 📍 Results
 The notebook compares ARIMA and LSTM forecast accuracy, highlighting the strengths of each approach for stock prediction.
-📌 How to Run
-Clone the repo and run the notebook using Jupyter:
-```bash
